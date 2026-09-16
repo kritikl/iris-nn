@@ -31,7 +31,7 @@ A parameterized fixed-point Multi-Layer Perceptron (MLP) accelerator for the Iri
 ## Project Structure
 
 ```text
-iris_vmac/
+iris-nn/
 ├── sources_1/new/
 │   ├── iris.sv              # Main parameterized accelerator
 │   ├── neuron.sv            # Parameterized neuron
