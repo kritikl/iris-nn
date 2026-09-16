@@ -1,0 +1,28 @@
+# Vivado Synthesis, Implementation & Logs
+*.log
+*.jou
+*.pb
+*.str
+*.dir/
+.Xil/
+
+# Vivado Simulation & Waveform Outputs
+xsim.dir/
+*.wdb
+*.vcd
+*.bin
+xsim.ini
+xelab.pb
+xvlog.pb
+xvhdl.pb
+
+# Vivado Generated Project Folders & Runs
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+
+# Python Artifacts (for res.py)
+__pycache__/
+*.pyc
+.pytest_cache/
